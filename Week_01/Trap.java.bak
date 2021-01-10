@@ -1,0 +1,5 @@
+public class Trap {
+    public int trap(int[] height) {
+		
+    }
+}
